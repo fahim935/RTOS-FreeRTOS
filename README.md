@@ -89,19 +89,6 @@ Planned & implemented examples include:
 - **Debugging**: ST-Link SWD, SystemView/Ozone, Logic Analyzer
 - **Language**: C
 
-## 📐 Implementation Philosophy
-
-This project is built with clean embedded architecture principles:
-
-- Zero unnecessary abstraction
-- Deterministic and safe design practices
-- Hardware-aware RTOS integration
-- Modular and reusable task model
-- Separation of application and infrastructure code
-- Emphasis on correctness, timing & reliability
-
-The intent is not to showcase examples, but to demonstrate **professional embedded RTOS engineering**.
-
 ## 🔧 Hardware Requirements
 
 Minimum:
